@@ -162,8 +162,6 @@ All other queries are routed to the default database (postgresql).
 
 Clickhouse backend support django builtin fields and clickhouse specific fields.
 
-Read [fields documentation](https://github.com/jayvynl/django-clickhouse-backend/blob/main/docs/Fields.md) for more.
-
 Notices about model definition:
 
 - import models from clickhouse_backend, not from django.db
@@ -583,7 +581,7 @@ $ tox
 Changelog
 ---
 
-[All changelogs](https://github.com/jayvynl/django-clickhouse-backend/blob/main/CHANGELOG.md).
+[All changelogs](https://github.com/k-tourist/clickhouse-backend/blob/main/CHANGELOG.md).
 
 Contributing
 ---
