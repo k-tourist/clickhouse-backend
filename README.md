@@ -61,7 +61,7 @@ $ pip install django-clickhouse-backend
 or
 
 ```shell
-$ git clone https://github.com/jayvynl/django-clickhouse-backend
+$ git clone https://github.com/k-tourist/clickhouse-backend
 $ cd django-clickhouse-backend
 $ python setup.py install
 ```
